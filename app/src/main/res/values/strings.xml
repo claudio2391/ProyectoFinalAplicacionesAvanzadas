@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoFinalAplicacionesAvanzadas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name ="banner_id">ca-app-pub-4949112594059396/7875809666</string>
+    <string name="facebook_app_id">1025900904159822</string>
+</resources>
